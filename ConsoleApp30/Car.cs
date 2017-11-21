@@ -12,9 +12,11 @@ namespace ConsoleApp30
         private int _id;
         private string _model;
 
-        public Car()
+        public Car(int id , string name)
         {
-                
+             _id = id;
+            _name = name;
+
         }
     }
 }
