@@ -6,12 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp30
 {
-    class Program
+    class Car
     {
-        static void Main(string[] args)
-        {
-            //comment from Iza
-            //elifs comment
-        }
     }
 }
