@@ -8,5 +8,13 @@ namespace ConsoleApp30
 {
     class Car
     {
+        private string _name;
+        private int _id;
+        private string _model;
+
+        public Car()
+        {
+                
+        }
     }
 }
