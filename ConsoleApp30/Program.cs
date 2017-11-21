@@ -1,4 +1,5 @@
-﻿using System;
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,6 +13,7 @@ namespace ConsoleApp30
         {
             //comment from Iza
             //elifs comment
+            //comment right from git
         }
     }
 }
