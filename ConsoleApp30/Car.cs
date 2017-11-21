@@ -18,5 +18,10 @@ namespace ConsoleApp30
         {
            
         }
+
+        public void GetCarId()
+        {
+            
+        }
     }
 }
